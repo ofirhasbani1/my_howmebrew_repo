@@ -1,6 +1,7 @@
-class Helloworld < Formula
+class Helloworld < Formulagit remote set-url origin https://github.com/avivgor/my_home_brew.git
+
   desc "an elf executable (golang) that prints hello world"
-  homepage "https://github.com/viggin543/opentikva"
+  homepage "https://github.com/ofirhasbani1/my_howmebrew_repo"
   version "0.3"
   sha256 "1a4c78930ec0fd12ec475aae9424a3f5d2fe64096c8814f1a70a9f98252cee16"
 
