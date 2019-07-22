@@ -1,5 +1,4 @@
-class Helloworld < Formulagit remote set-url origin https://github.com/avivgor/my_home_brew.git
-
+class Helloworld < Formulagit remote set-url origin https://github.com/ofirhasbani1/my_howmebrew_repo.git
   desc "an elf executable (golang) that prints hello world"
   homepage "https://github.com/ofirhasbani1/my_howmebrew_repo"
   version "0.3"
