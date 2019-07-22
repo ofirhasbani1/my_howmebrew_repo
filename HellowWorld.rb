@@ -2,7 +2,6 @@ class Helloworld < Formulagit
   desc "an elf executable (golang) that prints hello world"
   homepage "https://github.com/ofirhasbani1/my_howmebrew_repo"
   version "0.3"
-  sha256 "1a4c78930ec0fd12ec475aae9424a3f5d2fe64096c8814f1a70a9f98252cee16"
 
   url "https://opentikva.s3.amazonaws.com/hello", :using => :curl
 
